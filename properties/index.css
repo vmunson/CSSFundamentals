@@ -1,0 +1,24 @@
+body{
+    background-color: gray;
+    height: 100vh;
+    overflow: hidden;
+
+}
+.box{
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 2px solid red;
+}
+.outter{
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+}
+.inner{
+    position: relative;
+    top: 25px;
+    left: 25px;
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
